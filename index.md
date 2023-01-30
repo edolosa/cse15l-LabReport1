@@ -4,9 +4,7 @@
 ## Step 1 - Getting your Account information.
 The first step to setting up your account, is finding the account information.
 
-To get your course-specific account for your class, use the following link:
-
-https://sdacs.ucsd.edu/~icc/index.php
+To get your course-specific account for your class, use this [link](https://sdacs.ucsd.edu/~icc/index.php).
 
 For information on resetting your password, follow the instructions [here](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit).
 
@@ -78,13 +76,19 @@ Now you should be on the ieng6 server. Whenever you run code in that terminal, i
 ## Step 4 - Running Commands
 
 Now that you're on the server, you can try running code, here are some commands to try out:
-- ```cd```
-- ```ls```
-- ```pwd```
+
+```
+$ ls
+$ cd
+$ pwd
+```
+
+From these commands you may experience different outcomes after entering one command after the other. For example, putting in `ls` and then using `cd` to change your directory, putting `ls` again may give you a different outcome.
 
 Try using different combinations and sequences to get unique outcomes!
 
 From this screenshot, find out how to get this to appear:
-![Image](https://media.discordapp.net/attachments/717860504093327450/1063233721634926712/image.png?width=1215&height=99)
+
+![Image](https://media.discordapp.net/attachments/717860504093327450/1069707157991346337/image.png)
 
 Congratulations on properly setting up your connection to the ieng6 server! Enjoy coding!
